@@ -29,8 +29,8 @@ This project is a web application that I used to gain experience in both creatin
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/star-wars-character-info.git
-    cd star-wars-character-info
+    git clone https://github.com/t1oluwani/StarWarsAPI.git
+    cd StarWarsAPI
     ```
 
 2. Install dependencies:
