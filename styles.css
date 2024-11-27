@@ -6,7 +6,7 @@ body {
     background-color: black; /* Background color */
 }
 
-h1 {
+h1, #prereq {
     text-align: center;
 }
 

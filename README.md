@@ -48,6 +48,8 @@ This project is a web application that I used to gain experience in both creatin
 
 5. Open `index.html` in your browser to use the application.
 
+6. Alternatively you could open the github pages at step 4 (https://t1oluwani.github.io/StarWarsAPI/)
+
 ## Usage
 1. Fill out the form with your name, email, age, and favorite Star Wars movie and character details.
 2. Submit the form to save the data in the backend.
