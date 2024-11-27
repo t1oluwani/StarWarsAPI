@@ -6,8 +6,16 @@ body {
     background-color: black; /* Background color */
 }
 
-h1, #prereq {
+h1 {
     text-align: center;
+}
+
+#prereq {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 25px;
 }
 
 form {
